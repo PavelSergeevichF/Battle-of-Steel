@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: ef0950c6c4a6be14084328c942f8d247
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back_hatch01
+    100002: cannon01
+    100004: door
+    100006: Door_int
+    100008: hatch01
+    100010: hull01
+    100012: tread_left01
+    100014: tread_right01
+    100016: //RootNode
+    100018: turret01
+    100020: wheel01
+    100022: wheel02
+    100024: wheel03
+    100026: wheel04
+    100028: wheel05
+    100030: wheel06
+    100032: wheel07
+    100034: wheel08
+    100036: wheel09
+    100038: wheel10
+    100040: wheel11
+    100042: wheel12
+    100044: wheel13
+    100046: wheel14
+    100048: wheel15
+    100050: wheel16
+    400000: back_hatch01
+    400002: cannon01
+    400004: door
+    400006: Door_int
+    400008: hatch01
+    400010: hull01
+    400012: tread_left01
+    400014: tread_right01
+    400016: //RootNode
+    400018: turret01
+    400020: wheel01
+    400022: wheel02
+    400024: wheel03
+    400026: wheel04
+    400028: wheel05
+    400030: wheel06
+    400032: wheel07
+    400034: wheel08
+    400036: wheel09
+    400038: wheel10
+    400040: wheel11
+    400042: wheel12
+    400044: wheel13
+    400046: wheel14
+    400048: wheel15
+    400050: wheel16
+    2100000: us_apc_wheel01
+    2100002: us_apc_cabel01
+    2100004: us_apc_inter01
+    2100006: us_apc_turre01
+    2100008: us_apc_chass01
+    2100010: us_apc_armor01
+    2100012: us_apc_skirt01
+    2100014: 'Material #268'
+    2100016: us_apc_t.01
+    2300000: back_hatch01
+    2300002: cannon01
+    2300004: door
+    2300006: Door_int
+    2300008: hatch01
+    2300010: hull01
+    2300012: tread_left01
+    2300014: tread_right01
+    2300016: turret01
+    2300018: wheel01
+    2300020: wheel02
+    2300022: wheel03
+    2300024: wheel04
+    2300026: wheel05
+    2300028: wheel06
+    2300030: wheel07
+    2300032: wheel08
+    2300034: wheel09
+    2300036: wheel10
+    2300038: wheel11
+    2300040: wheel12
+    2300042: wheel13
+    2300044: wheel14
+    2300046: wheel15
+    2300048: wheel16
+    3300000: back_hatch01
+    3300002: cannon01
+    3300004: door
+    3300006: Door_int
+    3300008: hatch01
+    3300010: hull01
+    3300012: tread_left01
+    3300014: tread_right01
+    3300016: turret01
+    3300018: wheel01
+    3300020: wheel02
+    3300022: wheel03
+    3300024: wheel04
+    3300026: wheel05
+    3300028: wheel06
+    3300030: wheel07
+    3300032: wheel08
+    3300034: wheel09
+    3300036: wheel10
+    3300038: wheel11
+    3300040: wheel12
+    3300042: wheel13
+    3300044: wheel14
+    3300046: wheel15
+    3300048: wheel16
+    4300000: wheel16
+    4300002: wheel15
+    4300004: wheel14
+    4300006: wheel13
+    4300008: wheel12
+    4300010: wheel11
+    4300012: wheel10
+    4300014: wheel09
+    4300016: wheel08
+    4300018: wheel07
+    4300020: wheel06
+    4300022: wheel05
+    4300024: wheel04
+    4300026: wheel03
+    4300028: wheel02
+    4300030: wheel01
+    4300032: turret01
+    4300034: hull01
+    4300036: hatch01
+    4300038: cannon01
+    4300040: back_hatch01
+    4300042: tread_right01
+    4300044: tread_left01
+    4300046: door
+    4300048: Door_int
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
