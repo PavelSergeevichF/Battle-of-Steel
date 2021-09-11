@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 2b201777fea98ee42ba90af2a7523d20
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object_04
+    100004: Object_05
+    100006: Object_06
+    100008: Object_07
+    100010: Object_08
+    100012: Object_09
+    100014: Object_1
+    100016: Object_10
+    100018: Object_11
+    100020: Object_2
+    100022: Object_3
+    400000: //RootNode
+    400002: Object_04
+    400004: Object_05
+    400006: Object_06
+    400008: Object_07
+    400010: Object_08
+    400012: Object_09
+    400014: Object_1
+    400016: Object_10
+    400018: Object_11
+    400020: Object_2
+    400022: Object_3
+    2100000: 'Material #25'
+    2100002: Material_1
+    2100004: 'Material #27'
+    2300000: Object_04
+    2300002: Object_05
+    2300004: Object_06
+    2300006: Object_07
+    2300008: Object_08
+    2300010: Object_09
+    2300012: Object_1
+    2300014: Object_10
+    2300016: Object_11
+    2300018: Object_2
+    2300020: Object_3
+    3300000: Object_04
+    3300002: Object_05
+    3300004: Object_06
+    3300006: Object_07
+    3300008: Object_08
+    3300010: Object_09
+    3300012: Object_1
+    3300014: Object_10
+    3300016: Object_11
+    3300018: Object_2
+    3300020: Object_3
+    4300000: Object_1
+    4300002: Object_2
+    4300004: Object_3
+    4300006: Object_04
+    4300008: Object_05
+    4300010: Object_06
+    4300012: Object_07
+    4300014: Object_08
+    4300016: Object_09
+    4300018: Object_10
+    4300020: Object_11
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: e27cf0a7f8d4ca14db0bc902f3471d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 825725f9d24fd7e4c9936092de463e22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1
+    second: {fileID: 2100000, guid: 6cc93ad88a619c943b92db6836235343, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

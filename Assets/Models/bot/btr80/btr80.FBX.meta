@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 9a474bab3b490ea4c85d0f8aed57f553
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Glass
+    100004: Glass 1
+    100006: Mesh037
+    100008: Mesh038
+    100010: Mesh039
+    100012: Mesh040
+    100014: Mesh041
+    100016: Mesh042
+    100018: Mesh28
+    100020: Mesh29
+    100022: Mesh30
+    100024: Mesh31
+    100026: Mesh32
+    100028: Mesh33
+    100030: Mesh34
+    100032: Mesh35
+    100034: Mesh36
+    100036: PhysCamera001
+    100038: PhysCamera001.Target
+    100040: Point001
+    100042: Wheels
+    100044: Wheels 1
+    100046: Wheels 2
+    100048: Wheels 3
+    100050: Wheels 4
+    100052: Wheels 5
+    100054: Wheels 6
+    100056: Wheels 7
+    100058: "\u043A\u043E\u0440\u043F\u0443\u04412"
+    400000: //RootNode
+    400002: Glass
+    400004: Glass 1
+    400006: Mesh037
+    400008: Mesh038
+    400010: Mesh039
+    400012: Mesh040
+    400014: Mesh041
+    400016: Mesh042
+    400018: Mesh28
+    400020: Mesh29
+    400022: Mesh30
+    400024: Mesh31
+    400026: Mesh32
+    400028: Mesh33
+    400030: Mesh34
+    400032: Mesh35
+    400034: Mesh36
+    400036: PhysCamera001
+    400038: PhysCamera001.Target
+    400040: Point001
+    400042: Wheels
+    400044: Wheels 1
+    400046: Wheels 2
+    400048: Wheels 3
+    400050: Wheels 4
+    400052: Wheels 5
+    400054: Wheels 6
+    400056: Wheels 7
+    400058: "\u043A\u043E\u0440\u043F\u0443\u04412"
+    2100000: 'Material #10157'
+    2100002: 'Material #10156'
+    2100004: 'Material #10158'
+    2100006: 13 - Default
+    2300000: Glass
+    2300002: Glass 1
+    2300004: Mesh037
+    2300006: Mesh038
+    2300008: Mesh039
+    2300010: Mesh040
+    2300012: Mesh041
+    2300014: Mesh042
+    2300016: Mesh28
+    2300018: Mesh29
+    2300020: Mesh30
+    2300022: Mesh31
+    2300024: Mesh32
+    2300026: Mesh33
+    2300028: Mesh34
+    2300030: Mesh35
+    2300032: Mesh36
+    2300034: Wheels
+    2300036: Wheels 1
+    2300038: Wheels 2
+    2300040: Wheels 3
+    2300042: Wheels 4
+    2300044: Wheels 5
+    2300046: Wheels 6
+    2300048: Wheels 7
+    2300050: "\u043A\u043E\u0440\u043F\u0443\u04412"
+    3300000: Glass
+    3300002: Glass 1
+    3300004: Mesh037
+    3300006: Mesh038
+    3300008: Mesh039
+    3300010: Mesh040
+    3300012: Mesh041
+    3300014: Mesh042
+    3300016: Mesh28
+    3300018: Mesh29
+    3300020: Mesh30
+    3300022: Mesh31
+    3300024: Mesh32
+    3300026: Mesh33
+    3300028: Mesh34
+    3300030: Mesh35
+    3300032: Mesh36
+    3300034: Wheels
+    3300036: Wheels 1
+    3300038: Wheels 2
+    3300040: Wheels 3
+    3300042: Wheels 4
+    3300044: Wheels 5
+    3300046: Wheels 6
+    3300048: Wheels 7
+    3300050: "\u043A\u043E\u0440\u043F\u0443\u04412"
+    4300000: Wheels
+    4300002: Wheels
+    4300004: Wheels
+    4300006: Wheels
+    4300008: Wheels
+    4300010: Wheels
+    4300012: Wheels
+    4300014: Wheels
+    4300016: Mesh28
+    4300018: Mesh29
+    4300020: Mesh30
+    4300022: Mesh31
+    4300024: Mesh32
+    4300026: Mesh33
+    4300028: Mesh34
+    4300030: Mesh35
+    4300032: Mesh36
+    4300034: Glass
+    4300036: Glass
+    4300038: "\u043A\u043E\u0440\u043F\u0443\u04412"
+    4300040: Mesh037
+    4300042: Mesh038
+    4300044: Mesh039
+    4300046: Mesh040
+    4300048: Mesh041
+    4300050: Mesh042
+    7400000: Stop1
+    7400002: Stop
+    7400004: Startgo
+    7400006: go
+    7400008: moveRaitGo
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: 3d38f233c67639e4eb5d18b690137ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #10156'
+    second: {fileID: 2100000, guid: 75ca9be2a6c379c47951b805fdf40043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #10157'
+    second: {fileID: 2100000, guid: f1ba98c9f592f1643a54d1d548a32153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #10158'
+    second: {fileID: 2100000, guid: c78dff9f903861941a3d1ee1bc816e46, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stop1
+      takeName: Take 001
+      firstFrame: 260
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stop
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Startgo
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: go
+      takeName: Take 001
+      firstFrame: 62
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: moveRaitGo
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
